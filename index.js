@@ -1,6 +1,4 @@
 const element = (
-  // Write your code here.
-
   <div className="congrats-card-container">
     <h1 className="heading">Congratulations</h1>
     <div className="card">
